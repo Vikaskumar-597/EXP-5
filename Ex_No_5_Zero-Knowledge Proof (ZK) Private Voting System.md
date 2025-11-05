@@ -76,4 +76,17 @@ Prevents vote tampering while maintaining voter privacy.
 
 Mimics real-world ZK voting applications in governance and DAOs.
 
+# Output:
+<img width="1327" height="562" alt="Screenshot 2025-11-05 105241" src="https://github.com/user-attachments/assets/0a89ddcf-02c6-4302-b74d-d1b232bc686e" />
+
+### To generate a hash to register vote (web3.utils.soliditySha3("apple", 1)):
+
+<img width="595" height="84" alt="Screenshot 2025-11-05 105322" src="https://github.com/user-attachments/assets/99dffe68-b9e7-4ebf-9740-744f47732285" />
+
+### Verify the registered Vote:
+
+<img width="197" height="420" alt="Screenshot 2025-11-05 105252" src="https://github.com/user-attachments/assets/917caa6e-fe9d-4000-8c99-a2e186287bbc" />
+
+
 # RESULT: 
+Thus to implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs) is executed Succefully.
